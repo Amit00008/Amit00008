@@ -10,6 +10,7 @@
 - 🔭 I’m working on **React projects and building full-stack apps**
 - 🌱 Currently learning **backend with Node.js**
 - 🎓 High school student studying **PCM (Physics, Chemistry, Math)**
+- Currently working on [felix.it](https://github.com/Amit00008/felix.it)
 
 ---
 
