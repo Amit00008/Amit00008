@@ -47,7 +47,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amit-dey"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://amitfr.tech"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=firefox&logoColor=FF7139" /></a>
-  <a href="https://github.com/AmitDey"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Amit00008"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
