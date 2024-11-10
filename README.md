@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Amit Dey 👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1CE783&center=true&width=435&lines=Full+Stack+Developer;VFX+and+Video+Editing+Enthusiast;Machine+Learning+Student;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1CE783&center=true&width=435&lines=Full+Stack+Developer;VFX+and+Video+Editing+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
