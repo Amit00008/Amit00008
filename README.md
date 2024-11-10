@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3" />
@@ -25,19 +27,8 @@
 
 ---
 
-### 🚀 My Projects
-<table>
-<tr>
-  <td align="center"><a href="https://github.com/AmitDey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmitDey&repo=chat-web-app" alt="Project Repo" width="300px"/></a></td>
-  <td align="center"><a href="https://github.com/AmitDey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmitDey&repo=currency-converter" alt="Project Repo" width="300px"/></a></td>
-</tr>
-<tr>
-  <td align="center"><a href="https://github.com/AmitDey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmitDey&repo=windows-clone" alt="Project Repo" width="300px"/></a></td>
-  <td align="center"><a href="https://github.com/AmitDey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmitDey&repo=discord-bot" alt="Project Repo" width="300px"/></a></td>
-</tr>
-</table>
 
----
+
 
 ### 📊 GitHub Stats
 <p align="center">
