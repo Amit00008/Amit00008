@@ -10,7 +10,7 @@
 - 🔭 I’m working on **React projects and building full-stack apps**
 - 🌱 Currently learning **backend with Node.js**
 - 🎓 High school student studying **PCM (Physics, Chemistry, Math)**
-- Check my [protoflio](https://amitfr.tech)
+- Check my [Portfolio](https://amitfr.tech)
 
 ---
 
