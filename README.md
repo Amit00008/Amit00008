@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript" />
+  
 </p>
 
 ---
