@@ -17,6 +17,9 @@
 ### 🛠️ Languages and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript" />
+   <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript" />
+   <img src="https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next" />
+   <img src="https://img.shields.io/badge/sql-333333?style=for-the-badge&logo=sql" />
   <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express" />
@@ -24,7 +27,7 @@
   <img src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript" />
+ 
   
 </p>
 
