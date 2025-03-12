@@ -7,8 +7,8 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m working on **React projects and building full-stack apps**
-- 🌱 Currently learning **backend with Node.js**
+- 🔭 I’m working on **Next projects and building full-stack apps**
+- 🌱 Currently learning **Rust**
 - 🎓 High school student studying **PCM (Physics, Chemistry, Math)**
 - Check my [Portfolio](https://amitfr.tech)
 
