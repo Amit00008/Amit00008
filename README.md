@@ -12,7 +12,7 @@ I'm a young entrepreneur and developer who loves building things that make sense
 (fun fact i am 16)
 
 - 🚀 **CTO at Sharaspot Private Limited** - Building systems to solve parking problems and creating smooth experiences
-- 💼 **Co-Founder at Privée** - Creating the new standard of private social events (invite-only, ultra-exclusive)
+- 💼 **Co-Founder at Momentmm** - Creating the new standard of private social events powered by web3(invite-only, ultra-exclusive)
 - 🔭 Working on **Next.js projects and full-stack applications**
 - 🌱 Currently learning **Rust** to expand my tech stack
 - 🎓 High school student 
