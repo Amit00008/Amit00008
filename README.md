@@ -18,7 +18,7 @@ I'm a young entrepreneur and developer who loves building things that make sense
 - 🎓 High school student 
 - 💡 Always experimenting with fresh startup ideas
 - 📧 Reach me at: **amitdey1350@gmail.com**
-- 🌐 Check out my [Portfolio](https://amit.felixify.in)
+- 🌐 Check out my [Portfolio](https://amitdey.tech)
 
 ---
 
